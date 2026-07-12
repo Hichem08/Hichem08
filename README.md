@@ -1,32 +1,202 @@
-<h1 align="center">Hi 👋, I'm Hichem Bendali</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hichem08&label=Profile%20views&color=0e75b6&style=flat" alt="hichem08" /> </p>
+# 👨‍💻 HICHEM BENDALI
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hichem08" alt="hichem08" /></a> </p>
+### Full Stack Developer • MERN Stack • React Native • AWS Learner
 
-- 🌱 I’m currently learning **AWS Cloud**
+<img src="assets/banner.png" width="100%"/>
 
-- 📫 How to reach me **hichembendali08@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/hichem bendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hichem bendali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hichem bendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hichem bendali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hichem bendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hichem bendali" height="30" width="40" /></a>
-<a href="https://fb.com/hichem bendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hichem bendali" height="30" width="40" /></a>
-<a href="https://instagram.com/hichem.bendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hichem.bendali" height="30" width="40" /></a>
-<a href="https://www.behance.net/hichem bendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hichem bendali" height="30" width="40" /></a>
-<a href="https://medium.com/@hichembendali08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hichembendali08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hichembendali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hichembendali" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=hichem08&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/hichem08?style=for-the-badge&color=00ff99"/>
+<img src="https://img.shields.io/github/stars/hichem08?style=for-the-badge&color=00ff99"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/HichemBendali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HichemBendali" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hichem08&show_icons=true&locale=en&layout=compact" alt="hichem08" /></p>
+# > whoami
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hichem08&show_icons=true&locale=en" alt="hichem08" /></p>
+```bash
+Name        : Hichem Bendali
+Location    : Algeria 🇩🇿
+Role        : Full Stack Developer
+Education   : Bachelor's Degree + Canadian AEC
+Focus       : MERN Stack | React Native | Cloud
+Learning    : AWS Cloud
+Status      : Building modern software.
+```
+
+---
+
+# > about_me
+
+```javascript
+const hichem = {
+
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "Python",
+        "PHP"
+    ],
+
+    frontend: [
+        "React",
+        "React Native",
+        "HTML",
+        "CSS",
+        "TailwindCSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Laravel"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "SQL Server",
+        "Oracle"
+    ],
+
+    cloud: [
+        "AWS"
+    ],
+
+    tools: [
+        "Docker",
+        "Git",
+        "GitHub",
+        "Jenkins",
+        "Linux",
+        "Postman"
+    ],
+
+    design: [
+        "Photoshop",
+        "Illustrator",
+        "Figma"
+    ],
+
+    motto: "Write Clean Code. Build Great Products."
+}
+```
+
+---
+
+# > Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,python,php,laravel,docker,linux,git,github,jenkins,aws,figma,vscode"/>
+
+</p>
+
+---
+
+# > GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hichem08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichem08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# > Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hichem08&theme=github-compact"/>
+
+</p>
+
+---
+
+# > GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hichem08&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# > Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hichem08&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# > Current Mission
+
+```txt
+✓ Building Full Stack Applications
+
+✓ React Native Mobile Apps
+
+✓ Learning AWS Cloud
+
+✓ Open Source Contributions
+
+✓ Software Architecture
+
+✓ Becoming a Cloud Engineer
+```
+
+---
+
+# > Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/hichem08">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:hichembendali08@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
+<a href="https://instagram.com/hichem.bendali">
+<img src="https://img.icons8.com/color/48/instagram-new.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ "Code. Build. Learn. Repeat."
+
+```
+root@hichem:~$ whoami
+
+> Full Stack Developer
+> Cloud Enthusiast
+> Problem Solver
+> Always Learning
+```
+
+⭐ Thanks for visiting my profile!
+
+</div>
