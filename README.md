@@ -41,7 +41,7 @@ Open to Work ✔
 
 # Hi 👋 I'm Hichem Bendali
 
-## Full Stack Developer | React • Node.js • React Native • AWS
+## Full Stack Developer | Graphic Designer | Solar Energy Technician •Photovoltaic Systems•  
 
 I'm a passionate Full Stack Developer specialized in building modern web and mobile applications.
 
@@ -53,7 +53,7 @@ Currently focused on improving my backend architecture, AWS Cloud skills, and op
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,php,laravel,java,python,docker,git,github,linux,jenkins,aws,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,php,laravel,docker,git,github,linux,jenkins,aws,figma,vscode,illustrator,photoshop,claude,copilote,"/>
 
 ---
 
@@ -73,9 +73,9 @@ Currently focused on improving my backend architecture, AWS Cloud skills, and op
 
 🌍 Portfolio (Coming Soon)
 
-💼 LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/hichem-bendali-603605158
 
-📷 Instagram
+📱 WhatsApp : +213541820051
 
 </td>
 
@@ -85,15 +85,6 @@ Currently focused on improving my backend architecture, AWS Cloud skills, and op
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hichem08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichem08&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -117,13 +108,6 @@ Currently focused on improving my backend architecture, AWS Cloud skills, and op
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hichem08&theme=matrix&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
 
@@ -136,17 +120,17 @@ Name      : Hichem Bendali
 
 Role      : Full Stack Developer
 
-Frontend  : React • React Native
+Frontend  : React • React Native • 
 
-Backend   : Node.js • Express
+Backend   : Node.js • Express • PHP • Laravel
 
-Database  : MongoDB • MySQL
+Database  : MongoDB • MySQL • Oracle • SQL
 
 Cloud     : AWS
 
 OS         : Windows 11 + Linux
 
-Editor     : VS Code
+Editor     : VS Code • Cursor • TRAE
 
 Mission    : Build scalable software.
 
