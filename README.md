@@ -71,7 +71,7 @@ Currently focused on improving my backend architecture, AWS Cloud skills, and op
 
 📧 **hichembendali08@gmail.com**
 
-🌍 Portfolio (Coming Soon)
+🌍 Portfolio : https://portfolio-hichem-bendali.vercel.app
 
 💼 LinkedIn : https://www.linkedin.com/in/hichem-bendali-603605158
 
