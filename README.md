@@ -1,106 +1,91 @@
-<div align="center">
+<table>
+<tr>
 
-# 👨‍💻 HICHEM BENDALI
-
-### Full Stack Developer • MERN Stack • React Native • AWS Learner
-
-<img src="assets/banner.png" width="100%"/>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=hichem08&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/hichem08?style=for-the-badge&color=00ff99"/>
-<img src="https://img.shields.io/github/stars/hichem08?style=for-the-badge&color=00ff99"/>
-</p>
-
-</div>
-
----
-
-# > whoami
-
-```bash
-Name        : Hichem Bendali
-Location    : Algeria 🇩🇿
-Role        : Full Stack Developer
-Education   : Bachelor's Degree + Canadian AEC
-Focus       : MERN Stack | React Native | Cloud
-Learning    : AWS Cloud
-Status      : Building modern software.
-```
-
----
-
-# > about_me
-
-```javascript
-const hichem = {
-
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "Java",
-        "Python",
-        "PHP"
-    ],
-
-    frontend: [
-        "React",
-        "React Native",
-        "HTML",
-        "CSS",
-        "TailwindCSS",
-        "Bootstrap"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Laravel"
-    ],
-
-    databases: [
-        "MongoDB",
-        "MySQL",
-        "SQL Server",
-        "Oracle"
-    ],
-
-    cloud: [
-        "AWS"
-    ],
-
-    tools: [
-        "Docker",
-        "Git",
-        "GitHub",
-        "Jenkins",
-        "Linux",
-        "Postman"
-    ],
-
-    design: [
-        "Photoshop",
-        "Illustrator",
-        "Figma"
-    ],
-
-    motto: "Write Clean Code. Build Great Products."
-}
-```
-
----
-
-# > Tech Stack
+<td width="35%" valign="top">
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,python,php,laravel,docker,linux,git,github,jenkins,aws,figma,vscode"/>
+<img src="./ASC.png" width="350"/>
 
 </p>
 
+<br>
+
+```text
+root@hichem:~$
+
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
+
+Full Stack Developer
+
+Status :
+█████████████████ 100%
+
+Learning :
+AWS Cloud ☁
+
+Location :
+Algeria 🇩🇿
+
+Open to Work ✔
+```
+
+</td>
+
+<td width="65%" valign="top">
+
+# Hi 👋 I'm Hichem Bendali
+
+## Full Stack Developer | React • Node.js • React Native • AWS
+
+I'm a passionate Full Stack Developer specialized in building modern web and mobile applications.
+
+I enjoy creating scalable software, beautiful user interfaces, APIs, and cloud-based solutions.
+
+Currently focused on improving my backend architecture, AWS Cloud skills, and open-source contributions.
+
 ---
 
-# > GitHub Stats
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,php,laravel,java,python,docker,git,github,linux,jenkins,aws,figma,vscode"/>
+
+---
+
+## 🚀 Currently Working On
+
+- 🔥 MERN Stack Applications
+- 📱 React Native Apps
+- ☁ AWS Cloud
+- 🐳 Docker
+- 🌍 Portfolio & Open Source
+
+---
+
+## 📫 Contact
+
+📧 **hichembendali08@gmail.com**
+
+🌍 Portfolio (Coming Soon)
+
+💼 LinkedIn
+
+📷 Instagram
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
@@ -112,17 +97,7 @@ const hichem = {
 
 ---
 
-# > Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hichem08&theme=github-compact"/>
-
-</p>
-
----
-
-# > GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -132,71 +107,58 @@ const hichem = {
 
 ---
 
-# > Trophies
+# Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hichem08&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hichem08&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# > Current Mission
+# GitHub Trophies
 
-```txt
-✓ Building Full Stack Applications
+<p align="center">
 
-✓ React Native Mobile Apps
+<img src="https://github-profile-trophy.vercel.app/?username=hichem08&theme=matrix&no-frame=true&margin-w=15"/>
 
-✓ Learning AWS Cloud
+</p>
 
-✓ Open Source Contributions
+---
 
-✓ Software Architecture
+# Terminal
 
-✓ Becoming a Cloud Engineer
+```bash
+root@hichem:~$ whoami
+
+Name      : Hichem Bendali
+
+Role      : Full Stack Developer
+
+Frontend  : React • React Native
+
+Backend   : Node.js • Express
+
+Database  : MongoDB • MySQL
+
+Cloud     : AWS
+
+OS         : Windows 11 + Linux
+
+Editor     : VS Code
+
+Mission    : Build scalable software.
+
+Status     : Always Learning...
 ```
-
----
-
-# > Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/hichem08">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:hichembendali08@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-</a>
-
-<a href="https://instagram.com/hichem.bendali">
-<img src="https://img.icons8.com/color/48/instagram-new.png" width="48"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-## ⚡ "Code. Build. Learn. Repeat."
+## ⭐ Thanks for visiting my profile!
 
-```
-root@hichem:~$ whoami
-
-> Full Stack Developer
-> Cloud Enthusiast
-> Problem Solver
-> Always Learning
-```
-
-⭐ Thanks for visiting my profile!
+### Let's build something amazing together 🚀
 
 </div>
