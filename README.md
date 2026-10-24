@@ -41,7 +41,7 @@ Open to Work ✔
 
 # Hi 👋 I'm Hichem Bendali
 
-## Full Stack Developer | Graphic Designer | Solar Energy Technician •Photovoltaic Systems•  
+## Full Stack Developer | AI Engineer | Solar Energy Technician •Photovoltaic Systems•  
 
 I'm a passionate Full Stack Developer specialized in building modern web and mobile applications.
 
