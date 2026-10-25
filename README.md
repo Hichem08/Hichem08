@@ -21,7 +21,7 @@ root@hichem:~$
 ██████╔╝███████╗ ╚████╔╝
 ╚═════╝ ╚══════╝  ╚═══╝
 
-Full Stack Developer
+Full Stack Developer | AI Engineer
 
 Status :
 █████████████████ 100%
@@ -53,12 +53,12 @@ Currently focused on improving my backend architecture, AWS Cloud skills, and op
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,php,laravel,docker,git,github,linux,jenkins,aws,figma,vscode,illustrator,photoshop,claude,copilote,"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,php,laravel,docker,git,github,linux,jenkins,aws,figma,vscode,illustrator,photoshop,kubernetes,python,postgresql,redis,fastapi,supabase,opencv"/>
 
 ---
 
 ## 🚀 Currently Working On
-
+- 👾 AI Engineering
 - 🔥 MERN Stack Applications
 - 📱 React Native Apps
 - ☁ AWS Cloud
@@ -118,19 +118,19 @@ root@hichem:~$ whoami
 
 Name      : Hichem Bendali
 
-Role      : Full Stack Developer
+Role      : Full Stack Developer | AI Engineer
 
 Frontend  : React • React Native • 
 
-Backend   : Node.js • Express • PHP • Laravel
+Backend   : Node.js • Express • PHP • Laravel • Python 
 
-Database  : MongoDB • MySQL • Oracle • SQL
+Database  : MongoDB • MySQL • Oracle • SQL • PostgreSQL • Supabase • Redis
 
 Cloud     : AWS
 
 OS         : Windows 11 + Linux
 
-Editor     : VS Code • Cursor • TRAE
+Editor     : VS Code • Cursor • TRAE • Antigravity 
 
 Mission    : Build scalable software.
 
